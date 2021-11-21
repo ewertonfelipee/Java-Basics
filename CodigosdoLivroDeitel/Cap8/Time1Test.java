@@ -1,4 +1,7 @@
-public class Time1Test {
+package CodigosdoLivroDeitel.Cap8;
+
+public class Time1Test
+{
     public static void main(String[] args)
     {
         //cria e inicializa um objeto Time1
@@ -24,7 +27,7 @@ public class Time1Test {
         }
     
         //exibe a data/hora apos uma tentativa de difnir valores invalidos
-        displayTime("Apois chamar setTime com valores invalidos", test);
+        displayTime("Apos chamar setTime com valores invalidos", test);
 
     }
 
