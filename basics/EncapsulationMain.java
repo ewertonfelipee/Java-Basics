@@ -1,3 +1,5 @@
+package basics;
+
 public class EncapsulationMain {
     public static void main(String[] args){
         Encapsulation Person = new Encapsulation();

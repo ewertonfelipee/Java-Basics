@@ -1,15 +1,15 @@
-// // Create a Constructor class
-// public class Constructor{
+package basics;// // Create a basics.Constructor class
+// public class basics.Constructor{
     
 //     int x; // Create a class attribute
 
-//     // Create a class Constructor for the constructor Constructor class
-//     public Constructor(int y){
+//     // Create a class basics.Constructor for the constructor basics.Constructor class
+//     public basics.Constructor(int y){
 //         x = y; // Set the initial value for the class attribute
 //     }
 
 //     public static void main(String[] args){
-//         Constructor myObj = new Constructor(25); // Create an object of class Constructor(This Will call the constructor)
+//         basics.Constructor myObj = new basics.Constructor(25); // Create an object of class basics.Constructor(This Will call the constructor)
 //         System.out.println("The Value of x is: " + myObj.x); // Print the value of x
 //     }
 // }

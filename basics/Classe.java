@@ -1,3 +1,5 @@
+package basics;
+
 public class Classe {
     Students[] students = new Students[2];
 

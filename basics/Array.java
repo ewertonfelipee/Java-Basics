@@ -1,8 +1,10 @@
+package basics;
+
 public class Array {
     public static void main(String[] args) {
 
         Classe fj11 = new Classe();
-//        Students students = new Students();
+//        basics.Students students = new basics.Students();
         fj11.students = new Students[2];
 
         fj11.students[0] = new Students();
