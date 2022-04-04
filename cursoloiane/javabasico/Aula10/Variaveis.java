@@ -1,4 +1,4 @@
-package cursoloiane.javabasico;
+package cursoloiane.javabasico.Aula10;
 
 public class Variaveis {
     public static void main(String[] args){
@@ -11,3 +11,4 @@ public class Variaveis {
         System.out.println(meuNome);
     }
 }
+
