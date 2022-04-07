@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d7e419a-8fe2-4b13-a6e1-6867685ec32b" name="Changes" comment="Modifies">
+      <change afterPath="$PROJECT_DIR$/cursoloiane/javabasico/Aula12/ClasseScanner.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="264XLry8pC02vMYpcLnqJnUm7Ic" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cursoloiane/javabasico/Aula12" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cursoloiane.javabasico.Aula10" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Scanner">
+    <configuration name="Array" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="basics.Array" />
+      <module name="Java-Basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scanner" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cursoloiane.javabasico.Aula12.ClasseScanner" />
+      <module name="Java-Basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cursoloiane/javabasico/Aula12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tipos" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cursoloiane.javabasico.Aula11.TiposPrimitivos" />
+      <module name="Java-Basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cursoloiane/javabasico/Aula11" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Variaveis" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cursoloiane.javabasico.Aula10.Variaveis" />
+      <module name="Java-Basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cursoloiane/javabasico/Aula10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Scanner" />
+      <item itemvalue="Application.Tipos" />
+      <item itemvalue="Application.Variaveis" />
+      <item itemvalue="Application.Array" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d7e419a-8fe2-4b13-a6e1-6867685ec32b" name="Changes" comment="" />
+      <created>1646683787028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646683787028</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Modifies">
+      <created>1646685235906</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646685235906</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Modifies">
+      <created>1649099115659</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649099115659</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Modifies">
+      <created>1649100132366</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649100132366</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Modifies">
+      <created>1649108351540</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649108351540</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Modifies" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modifies" />
+  </component>
+</project>
