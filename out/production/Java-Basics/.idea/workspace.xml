@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d7e419a-8fe2-4b13-a6e1-6867685ec32b" name="Changes" comment="Modifies">
-      <change afterPath="$PROJECT_DIR$/cursoloiane/javabasico/Aula12/ClasseScanner.java" afterDir="false" />
-    </list>
+    <list default="true" id="4d7e419a-8fe2-4b13-a6e1-6867685ec32b" name="Changes" comment="operators" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,9 +41,23 @@
       <recent name="cursoloiane.javabasico.Aula10" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Scanner">
+  <component name="RunManager" selected="Application.Relacionais">
+    <configuration name="Aritmeticos" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cursoloiane.javabasico.Aula13.OperadoresAritmeticos" />
+      <module name="Java-Basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Array" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="basics.Array" />
+      <module name="Java-Basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Relacionais" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cursoloiane.javabasico.Aula13.OperadoresRelacionais" />
       <module name="Java-Basics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,6 +88,8 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Relacionais" />
+      <item itemvalue="Application.Aritmeticos" />
       <item itemvalue="Application.Scanner" />
       <item itemvalue="Application.Tipos" />
       <item itemvalue="Application.Variaveis" />
@@ -119,7 +133,35 @@
       <option name="project" value="LOCAL" />
       <updated>1649108351540</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="class files">
+      <created>1649374917272</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1649374917272</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Scanner and operators">
+      <created>1649375032544</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1649375032544</updated>
+    </task>
+    <task id="LOCAL-00007" summary="operators">
+      <created>1649377130386</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1649377130386</updated>
+    </task>
+    <task id="LOCAL-00008" summary="operators">
+      <created>1649377150804</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1649377150804</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +190,9 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Modifies" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modifies" />
+    <MESSAGE value="class files" />
+    <MESSAGE value="Scanner and operators" />
+    <MESSAGE value="operators" />
+    <option name="LAST_COMMIT_MESSAGE" value="operators" />
   </component>
 </project>
