@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Aula11ProfIsidro/Aula11ProfIsidro.iml" filepath="$PROJECT_DIR$/Aula11ProfIsidro/Aula11ProfIsidro.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercicioBCombustivel/ExercicioBCombustivel.iml" filepath="$PROJECT_DIR$/ExercicioBCombustivel/ExercicioBCombustivel.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercicioRefrigerante/ExercicioRefrigerante.iml" filepath="$PROJECT_DIR$/ExercicioRefrigerante/ExercicioRefrigerante.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SysLib/SysLib.iml" filepath="$PROJECT_DIR$/SysLib/SysLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/basics.iml" filepath="$PROJECT_DIR$/basics.iml" />
     </modules>
   </component>
