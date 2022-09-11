@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7cf32c3-f04d-4d9c-88a8-6f2564717de4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ReserveString.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/SquareSides.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Concepts/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Concepts/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -27,9 +26,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2EVZyq7SXDc3wRN0YCWhxDFKgsq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
