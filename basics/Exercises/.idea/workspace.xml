@@ -2,28 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7cf32c3-f04d-4d9c-88a8-6f2564717de4" name="Changes" comment="Square sides and reverse string">
-      <change afterPath="$PROJECT_DIR$/ReserveString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SquareSides.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Exercises/Bee1009.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Exercises/Bee1021.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Exercises/basics/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Exercises/basics/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Exercises/basics/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Exercises/basics/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Exercises/basics/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Exercises/basics/Bafo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Exercises/basics/Exercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Exercises/basics/LoanCalculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Exercises/basics/Meteoros.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Exercises/basics/SafetyFirst.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Exercises/basics/SchoolAdmission.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Exercises/basics/SquareSides.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Exercises/basics/Uri1178.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Exercises/basics/Uri1181.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Exercises/basics/Uri2167.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Concepts/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Concepts/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FriendlyRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentSystem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercises/basics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercises/basics/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662903958880</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Square sides and reverse string">
+      <created>1662904018706</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662904018706</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
