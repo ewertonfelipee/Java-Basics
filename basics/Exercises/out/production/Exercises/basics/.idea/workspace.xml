@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7cf32c3-f04d-4d9c-88a8-6f2564717de4" name="Changes" comment="Photo Editor">
-      <change afterPath="$PROJECT_DIR$/printMatrix.java" afterDir="false" />
+    <list default="true" id="f7cf32c3-f04d-4d9c-88a8-6f2564717de4" name="Changes" comment="unversioned files">
+      <change afterPath="$PROJECT_DIR$/Animals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercises/basics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercises/basics/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +89,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663338228188</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="print Matrix elements">
+      <created>1663628763162</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663628763162</updated>
+    </task>
+    <task id="LOCAL-00008" summary="unversioned files">
+      <created>1663628841304</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663628841304</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +123,8 @@
     <MESSAGE value="student info system class files" />
     <MESSAGE value="BinaryConverter, Minimum Parameter and Ticket System" />
     <MESSAGE value="Photo Editor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Photo Editor" />
+    <MESSAGE value="print Matrix elements" />
+    <MESSAGE value="unversioned files" />
+    <option name="LAST_COMMIT_MESSAGE" value="unversioned files" />
   </component>
 </project>
