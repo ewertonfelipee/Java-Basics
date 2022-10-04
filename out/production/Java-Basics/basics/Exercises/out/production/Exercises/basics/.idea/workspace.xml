@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7cf32c3-f04d-4d9c-88a8-6f2564717de4" name="Changes" comment="unversioned files">
-      <change afterPath="$PROJECT_DIR$/../ArrayList/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArrayList/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArrayList/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArrayList/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArrayList/ArrayList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArrayList/arrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrayListExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Exercises/basics/arrayListExercise.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../out/production/Java-Basics/basics/Exercises/out/production/Exercises/basics/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercises/basics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercises/basics/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/Java-Basics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Java-Basics/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/Java-Basics/basics/Exercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Java-Basics/basics/Exercises/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/Java-Basics/basics/Threads/Loader2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/Java-Basics/basics/Threads/Main2.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Threads.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +30,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/whoami/Documents/Ciencia da Computacao/Java/Java-Basics/basics"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/whoami/Documents/Ciencia da Computacao/Java/Java-Basics/basics/Concepts&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -116,21 +102,7 @@
       <option name="project" value="LOCAL" />
       <updated>1663628841304</updated>
     </task>
-    <task id="LOCAL-00009" summary="Thread Exercises">
-      <created>1664543871209</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1664543871210</updated>
-    </task>
-    <task id="LOCAL-00010" summary="unversioned files">
-      <created>1664543917377</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1664543917377</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,7 +123,6 @@
     <MESSAGE value="BinaryConverter, Minimum Parameter and Ticket System" />
     <MESSAGE value="Photo Editor" />
     <MESSAGE value="print Matrix elements" />
-    <MESSAGE value="Thread Exercises" />
     <MESSAGE value="unversioned files" />
     <option name="LAST_COMMIT_MESSAGE" value="unversioned files" />
   </component>
